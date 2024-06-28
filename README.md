@@ -1,0 +1,1 @@
+Este repositório contém o código fonte de um sistema web, juntamente com os resultados dos testes realizados nas suas funcionalidades principais. Abaixo estão detalhados os testes executados e os respectivos resultados encontrados
